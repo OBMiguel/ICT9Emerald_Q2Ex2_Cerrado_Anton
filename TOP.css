@@ -1,0 +1,26 @@
+#First {
+     background-color: royalblue;
+     padding: 15px;
+     border: solid;
+     border-color: darkblue;
+
+
+
+
+}
+
+h1 {
+	font-weight: bolder;
+}
+
+P {
+   font-weight: bold;
+   color: whitesmoke;
+
+}
+
+#Sec {
+     background-color: indianred;
+     padding: 15px;
+     border: solid;
+     border-color: darkred;
